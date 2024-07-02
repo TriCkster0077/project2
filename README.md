@@ -1,0 +1,1 @@
+It is a bank management system in which a user can perform all the functions of an ATM like withdrawl, deposit, mini-statement etc. Front end of this project is made using java swing framework and for the backend i have used MySQL and integrated them using JDBC.
